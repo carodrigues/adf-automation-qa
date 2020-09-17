@@ -13,7 +13,7 @@ exports.config = {
       browser.manage().window().setSize(1024, 800);
 
       // better jasmine 2 reports...
-      const SpecReporter = require('jasmine-spec-reporter');
+      const SpecReporter = require('jasmine-spec-reporter').SpecReporter;
       jasmine.getEnv().addReporter(new SpecReporter({displayStacktrace: 'specs'}));
   },
 
