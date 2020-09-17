@@ -37,13 +37,13 @@ Automate the following scenario using protractor:
 In the README file of the repository we want to see also the following sections:
 
 1. ***Description*** 
-The follow steps descrive the needs steps to run the implemenation. 
+The follow steps descrive the steps to run the implementation. 
 
 To run the test the following steps should be done:
 * Access to GitHub 
 * Go to https://github.com/carodrigues/adf-automation-qa
 * Download project zip file from GitHub
-* extract project from zip
+* Extract project from zip
 * Via command line prompt go to the project “adf-automation-qa” directory 
 * Execute command “protractor starter\conf.js” 
  
