@@ -35,9 +35,49 @@ Automate the following scenario using protractor:
 21. Click delete
 
 In the README file of the repository we want to see also the following sections:
-1. ***Description*** Describes of how to run the automation test
-2. ***Explanation*** Describes the choice made in the solution
-3. ***Prerequisites*** List here what/if anything needs to be installed
+
+1. ***Description*** 
+To run the test the following steps should be done:
+a) Access to GitHub 
+b) Go to https://github.com/carodrigues/adf-automation-qa
+c) Download project zip file from GitHub
+d) extract project from zip
+e) Via command line prompt go to the project “adf-automation-qa” directory 
+c) Execute command “protractor starter\conf.js” 
+ 
+Or
+a) Access to GitHub 
+b) Go to https://github.com/carodrigues/adf-automation-qa
+c) Download project zip file from GitHub
+d) extract project from zip 
+e) Start Vistual Studio Code and open folder “adf-automation-qa”
+f) Open a new Terminal  and execute the command “protractor starter\conf.js”
+
+
+2. ***Explanation*** 
+
+The implementation of this solution was made by using protractor with jasmine. 
+For the implementation to be more clear, the test case was splitted with 4 areas (it):
+
+* Change provide
+* Login in QA exercise
+* Create new folder – carodrigues
+* Delete folder – carodrigues
+
+
+3. ***Prerequisites***
+
+If not installed, install
+
+a. Execute instructions described on ReadMe.md file in starter directory  
+
+b) Install jasmine: npm install -g jasmine
+
+b. Install jasmine-spec-reporter: npm install jasmine-spec-reporter --save-dev
+
+d) Visual Studio Code must have JavaScript and TypeScript installed. 
+
+
 
 You can send the link to your fork at mario.romano@alfresco.com. Feel free to attach also your cv and a link to your linkedin profile.
 
