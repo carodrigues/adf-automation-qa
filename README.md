@@ -37,21 +37,23 @@ Automate the following scenario using protractor:
 In the README file of the repository we want to see also the following sections:
 
 1. ***Description*** 
+The follow steps descrive the needs steps to run the implemenation. 
+
 To run the test the following steps should be done:
-a) Access to GitHub 
-b) Go to https://github.com/carodrigues/adf-automation-qa
-c) Download project zip file from GitHub
-d) extract project from zip
-e) Via command line prompt go to the project “adf-automation-qa” directory 
-c) Execute command “protractor starter\conf.js” 
+* Access to GitHub 
+* Go to https://github.com/carodrigues/adf-automation-qa
+* Download project zip file from GitHub
+* extract project from zip
+* Via command line prompt go to the project “adf-automation-qa” directory 
+* Execute command “protractor starter\conf.js” 
  
 Or
-a) Access to GitHub 
-b) Go to https://github.com/carodrigues/adf-automation-qa
-c) Download project zip file from GitHub
-d) extract project from zip 
-e) Start Vistual Studio Code and open folder “adf-automation-qa”
-f) Open a new Terminal  and execute the command “protractor starter\conf.js”
+* Access to GitHub 
+* Go to https://github.com/carodrigues/adf-automation-qa
+* Download project zip file from GitHub
+* Extract project from zip 
+* Start Vistual Studio Code and open folder “adf-automation-qa”
+* Open a new Terminal  and execute the command “protractor starter\conf.js”
 
 
 2. ***Explanation*** 
@@ -69,13 +71,13 @@ For the implementation to be more clear, the test case was splitted with 4 areas
 
 If not installed, install
 
-a. Execute instructions described on ReadMe.md file in starter directory  
+*  Execute instructions described on ReadMe.md file in starter directory  
 
-b) Install jasmine: npm install -g jasmine
+*  Install jasmine: npm install -g jasmine
 
-b. Install jasmine-spec-reporter: npm install jasmine-spec-reporter --save-dev
+*  Install jasmine-spec-reporter: npm install jasmine-spec-reporter --save-dev
 
-d) Visual Studio Code must have JavaScript and TypeScript installed. 
+*  Visual Studio Code must have JavaScript and TypeScript installed. 
 
 
 
