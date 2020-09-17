@@ -55,7 +55,10 @@ Or
 * Start Vistual Studio Code and open folder “adf-automation-qa”
 * Open a new Terminal  and execute the command “protractor starter\conf.js”
 
+Expected results: 
 
+![Alt text](https://github.com/carodrigues/adf-automation-qa/blob/master/testResults.JPG)
+ 
 2. ***Explanation*** 
 
 The implementation of this solution was made by using protractor with jasmine. 
