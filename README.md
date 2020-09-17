@@ -83,9 +83,6 @@ If not installed, install
 *  Visual Studio Code must have JavaScript and TypeScript installed. 
 
 
-
-You can send the link to your fork at mario.romano@alfresco.com. Feel free to attach also your cv and a link to your linkedin profile.
-
 ### Starter
 The framework has already been setup in the /starter folder, please add your teest case in the spec.js file. 
 
